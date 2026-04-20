@@ -32,11 +32,6 @@
 └── README.md           # 專案說明文件
 ```
 
-## 如何查看
-1. 下載或 Clone 本儲存庫。
-2. 使用瀏覽器直接開啟 `index.html` 即可體驗完整的互動導航。
-3. 建議使用 Chrome 或 Edge 瀏覽器以獲得最佳視覺效果。
-
 ---
 
 *© 2026 BENZAO INDUSTRIAL. All rights reserved.*
